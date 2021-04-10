@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @charlotean, I'm new into coding
+- 👋 Hi, I’m @charlotean, and I'm new into coding
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning CS106A Programming Methodologies
+- 🌱 I’m currently learning CS106A Programming Methodologies. I will be posting my projects here.
 - 📫 email: charlotean.work@gmail.com
 
 <!---

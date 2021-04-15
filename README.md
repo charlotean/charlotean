@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlotean, and I'm new into coding
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning CS106A Programming Methodologies. I will be posting my projects here.
+- 🌱 I’m a student of Stanford Code in Place 2021
 - 📫 email: charlotean.work@gmail.com
 
 <!---

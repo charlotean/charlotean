@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @charlotean, and I'm new into coding
 - 👀 I’m interested in Python
 - 🌱 I’m a student of Stanford Code in Place 2021
+- 🌱 CS50x 2021
 - 📫 email: charlotean.work@gmail.com
 
 <!---

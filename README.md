@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charlotean, and I'm new into coding
+- 👋 Hello world! I’m @charlotean, and I'm new into coding
 - 👀 I’m interested in Python
 - 🌱 Stanford Code in Place 2021
 - 🌱 Harvard CS50x 2021

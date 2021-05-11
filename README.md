@@ -1,6 +1,6 @@
 - 👋 Hello world! This site contains my coding assignments and projects as my way to learn Computer Science and programming.
-- 🌱 Stanford Code in Place 2021
-- 🌱 Harvard CS50x 2021
+- 🌱 Stanford CIP 2021
+- 🌱 CS50
 - 📫 email: charlotean.work@gmail.com
 
 <!---

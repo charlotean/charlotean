@@ -2,7 +2,6 @@
 - 🌱 Stanford CIP Spring 2021
 - 🏆 Shopee Code League 2022 Participant
 - 👩🏻‍💻 Trent Global College Singapore DWAD-E Batch 17 2022
-- 👩🏻‍💻 KodeGo Philippines Full Stack Dev Bootcamp Batch WD57P 2023
 - 📫 email: charlotean.work@gmail.com
 
 <!---
